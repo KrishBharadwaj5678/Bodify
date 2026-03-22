@@ -2,6 +2,8 @@
 
 Bodify helps users quickly calculate their Body Mass Index (BMI) and understand their health status with intuitive visuals and interactions. 
 
+![BodifyDemo](https://github.com/KrishBharadwaj5678/Bodify/raw/main/BodifyDemo.jpeg)
+
 ## ✨ Features
 
 | Feature                 | Description                                         |
