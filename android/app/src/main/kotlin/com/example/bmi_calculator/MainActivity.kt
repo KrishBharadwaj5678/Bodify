@@ -1,4 +1,4 @@
-package com.example.bmi_calculator
+package com.byteaura.bodify
 
 import io.flutter.embedding.android.FlutterActivity
 
